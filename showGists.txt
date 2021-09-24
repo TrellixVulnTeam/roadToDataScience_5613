@@ -1,0 +1,4 @@
+<iframe src="data:text/html;charset=utf-8,
+    &lt;head&gt;&lt;base target='_blank' /&gt;&lt;/head&gt;
+    &lt;body&gt;&lt;script src='INSERT LINK HERE'&gt;&lt;/script&gt;
+    &lt;/body&gt;" width="100%"></iframe>
